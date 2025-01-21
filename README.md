@@ -1,24 +1,33 @@
 <h1 align="center">Hi 👋, I'm Mario Steven Melo Mendoza.</h1>
-<h3 align="center">A passionate Flutter </h3>
 
-- 🔭 I’m currently working on **Budget app**
+## About Me
+### Hi there! 👋 I'm a mobile development enthusiast with an innate passion for technology and continuous learning. At 23 years old, I've dedicated my time to honing my skills and expanding my knowledge in this ever-evolving field.
 
-- 🌱 I’m currently learning **Flutter and others**
+- 🎯 **Disciplined and Motivated**: I am a committed and disciplined individual, always striving to improve and surpass myself.
+- 📚 **Avid Reader and Learner**: I love reading and discovering new topics, allowing me to stay updated with the latest trends and technological advancements.
+- 🚀 **Mobile Developer**: My main focus is on mobile application development, where I can combine my creativity with my technical knowledge to create innovative and effective solutions.
 
-- 👯 I’m looking to collaborate on **Open-Source**
+I'm excited to connect with other professionals and explore new opportunities in the world of technology development!
 
-- 🤝 I’m looking for help with **Flutter**
+## 💼 Projects
+- [TrackStar](https://github.com/mariomedev/trackStar): This is a project for invertory.
+  
+## 🏅 Certifications and Courses 
+- [SOLID Principles Course](https://www.udemy.com/certificate/UC-f0ab2fd3-732d-4016-9243-9470c1059c2d/): Understanding and applying the SOLID principles in software development. 
+- [Object-Oriented Programming Course](https://www.udemy.com/certificate/UC-fcc22e82-2703-442f-89c0-6860b72f6603/): Mastering object-oriented programming concepts. 
+- [Dart Course](https://www.udemy.com/certificate/UC-6004c93f-f4ec-46dd-8df7-1c77ffc5ac7a/): Comprehensive learning of the Dart
 
-- 💬 Ask me about **Flutter**
+## 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- 📫 How to reach me **mario.melo.dev@gmail.com**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mariomedev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mariomedev&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomedev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- ⚡ Fun fact **I think I am funny.**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mariomedev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
+## 📫 Contact Me
+- **Email**: mario.melo.dev@gmail.com
+- **LinkedIn**: [Mario Steven Melo Mendoza](https://www.linkedin.com/in/mariodev)
