@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario Steven Melo Mendoza.</h1>
 
 ## About Me
-### Hi there! 👋 I'm a mobile development enthusiast with an innate passion for technology and continuous learning. At 23 years old, I've dedicated my time to honing my skills and expanding my knowledge in this ever-evolving field.
+### Hi there! 👋 I'm a mobile development enthusiast with an innate passion for technology and continuous learning. At 25 years old, I've dedicated my time to honing my skills and expanding my knowledge in this ever-evolving field.
 
 - 🎯 **Disciplined and Motivated**: I am a committed and disciplined individual, always striving to improve and surpass myself.
 - 📚 **Avid Reader and Learner**: I love reading and discovering new topics, allowing me to stay updated with the latest trends and technological advancements.
@@ -11,6 +11,8 @@ I'm excited to connect with other professionals and explore new opportunities in
 
 ## 💼 Projects
 - [TrackStar](https://github.com/mariomedev/trackStar): This is a project for invertory.
+- [Gasticos](https://github.com/mariomedev/control_gastos): This project is for control of spending.
+- [QrAndromeda](https://github.com/mariomedev/qr_andromeda): This project is for Scan Qrs and generate.
   
 ## 🏅 Certifications and Courses 
 - [SOLID Principles Course](https://www.udemy.com/certificate/UC-f0ab2fd3-732d-4016-9243-9470c1059c2d/): Understanding and applying the SOLID principles in software development. 
